@@ -1,12 +1,3 @@
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [Mathematics Advanced](#mathematics-advanced)
-	- [Functions](#functions)
-		- [Linear Equations](#linear-equations)
-		- [Quadratic Equations](#quadratic-equations)
-		- [Cubic Equations](#cubic-equations)
-
-<!-- /TOC -->
 [Download as PDF](https://cdn.schoolnotes.xyz/documents/pdf/mathematics-advanced-preliminary.pdf)
 # Mathematics Advanced
 ## Functions
