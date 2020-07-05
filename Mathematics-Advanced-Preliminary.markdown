@@ -66,6 +66,3 @@
 	- [ ] Centres: $(a,b)$ or $(0,0)$
 	- [ ] Radii: $r$
 - Recognise that a circle is not a function
-
-
-<script src="https://cdn.jsdelivr.net/npm/mathjax@3.0.5/es5/tex-chtml.js" integrity="sha256-XIXoRLPpvqxWRZiFmSYB0zGoUnsolpyHjMXToWk4AdI=" crossorigin="anonymous"></script>
